@@ -9,7 +9,7 @@ Wantedlyのエンジニア学生向けインターン情報や新卒採用につ
 - その他
 
 ## Wantedlyの技術スタック一例
-- Ruby, Rails, Go, gRPC, Protocol Buffer, Pythonなど、問題領域に適した言語とフレームワークを採用
+- Ruby, Rails, Go, gRPC, Protocol Buffer, GraphQL, Pythonなど、問題領域に適した言語とフレームワークを採用
 - Kubernetes, Docker を基盤とするマイクロサービス・アーキテクチャ
 - Tensorflow(TensorBoard), gensim, scikit-learn, xgboostなどの機械学習ライブラリ
-- GraphQL, PostgreSQL, BigQuery, Elasticsearch, Dgraphなどのミドルウェア
+- PostgreSQL, BigQuery, Elasticsearch, Dgraphなどのミドルウェア
