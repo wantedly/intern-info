@@ -13,3 +13,6 @@ Wantedlyのエンジニア学生向けインターン情報や新卒採用につ
 - Kubernetes, Docker を基盤とするマイクロサービス・アーキテクチャ
 - Tensorflow(TensorBoard), gensim, scikit-learn, xgboostなどの機械学習ライブラリ
 - PostgreSQL, BigQuery, Elasticsearch, Dgraphなどのミドルウェア
+
+## エンジニア登壇資料一覧
+https://wantedlyinc.com/ja/presentations
