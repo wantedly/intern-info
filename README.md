@@ -16,3 +16,6 @@ Wantedlyのエンジニア学生向けインターン情報や新卒採用につ
 
 ## エンジニア登壇資料一覧
 https://wantedlyinc.com/ja/presentations
+
+## 募集一覧
+https://www.wantedly.com/companies/wantedly
