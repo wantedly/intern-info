@@ -11,7 +11,7 @@ Wantedlyのエンジニア学生向けインターン情報や新卒採用につ
 ### ２０２２年度（２０２４年以降卒業の方向け）インターンシップコース一覧は [こちら](https://wantedlyinc.com/ja/summer_intern_2022)
 
 ### [Wantedly Engineering Handbook](https://docs.wantedly.dev/)
-社内のエンジニアが知るべき情報のうち外部にも公開できる情報を体系的にまとめたものです
+※　社内のエンジニアが知るべき情報のうち外部にも公開できる情報を体系的にまとめたWiki
 
 ### [エンジニアブログ](https://www.wantedly.com/stories/s/wantedly_engineers)
 
